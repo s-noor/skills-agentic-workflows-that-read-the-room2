@@ -1,16 +1,21 @@
-# GitHub Info
+# Mona's GitHub Info Updates
 
-## Mona's editorial angle
+## Recent GitHub News (October 2026)
 
-Mona's website focuses on practical GitHub guidance backed by official references from:
+### GitHub Blog Highlights
+- [Latest GitHub Blog](https://github.blog/latest/): Stay updated with new features, best practices, and community stories.
+- [Changelog](https://github.blog/changelog/): Track all recent platform changes and improvements.
 
-- docs.github.com
-- github.blog
-- github.blog/changelog
+#### Notable Updates
+- **GitHub Copilot**: Continues to expand with improved code suggestions and broader IDE support. (Source: GitHub Blog)
+- **Actions & Workflows**: New workflow templates and reusable workflows make automation setup faster. (Source: Changelog)
+- **Security**: Enhanced secret scanning and code scanning features are now available for more repositories. (Source: Changelog)
 
-## Current homepage themes
+## Practical Tips
+- Use [GitHub Docs](https://docs.github.com/) for step-by-step guides.
+- Check the [Changelog](https://github.blog/changelog/) for the latest platform updates.
+- For automation, explore new GitHub Actions templates in your repository's Actions tab.
 
-- GitHub collaboration basics: repositories, branches, pull requests, and merges.
-- GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
-- GitHub Actions as the automation layer behind repository workflows.
-- Recent GitHub Blog and Changelog stories worth watching.
+---
+
+*This page is regularly updated. For more, visit the [GitHub Blog](https://github.blog/latest/) and [Changelog](https://github.blog/changelog/).*
